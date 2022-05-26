@@ -5,8 +5,8 @@ Autism Spectrum Disorder (ASD) is one of the most common developmental condition
 The scripts folder contains all classification scripts for the tasks. Please see attached list for details:
 ![Script Labels](script_labels.png)
 The visualisation folder contains all visualisation scripts used in the study. The output used in the paper were:
-![Output A](visualisation/AccDiffsVSA.png)
-![Output B](visualisation/AccDiffsVSC.png)
+![Output A](visualisation/SBJ14SESS07_Mean_Overlay.png)
+![Output B](visualisation/SBJ15SESS07_Mean_Overlay.png)
 
 The original data was not included. Please visit website provided below for details.
 
